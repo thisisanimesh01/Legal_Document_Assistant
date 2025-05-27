@@ -2,6 +2,8 @@
 
 Welcome to the **Legal Document Assistant**! This is a powerful web application that leverages AI to help users extract insights from legal documents. Whether you're a lawyer, a legal professional, or anyone dealing with legal text, this tool can help you quickly summarize documents and even answer specific questions about them.
 
+![House Price Prediction Screenshot](legal_assistant/templates/assistant/img.png)
+
 ## 🛠️ **Features**
 
 - **Document Upload:** Easily upload various document formats (PDF, DOCX, etc.).
