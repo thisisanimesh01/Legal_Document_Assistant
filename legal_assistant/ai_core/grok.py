@@ -1,6 +1,6 @@
 import openai
 import os
-openai.api_key = os.getenv("GROK_API_KEY")
+openai.api_key = os.getenv("GEMINI AI")
 
 def get_summary(text):
     response = openai.ChatCompletion.create(
